@@ -1,2 +1,2 @@
 # simple-markdown
-Educational project
+### Educational project
